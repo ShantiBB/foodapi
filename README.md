@@ -11,8 +11,8 @@
 ### Склонируйте репозиторий:
 
 ```bash
-git clone https://github.com/username/project.git
-cd project
+git@github.com:ShantiBB/foodapi.git
+cd foodapi
 ```
 
 ### Активация окружения:
